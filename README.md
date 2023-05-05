@@ -1,2 +1,2 @@
-# projek_SPK_Harbas
-Pembuatan Website Sistem Pendukung Keputusan dengan Metode Topsis untuk Penerimaan Siswa di SMKs Harapan Bangsa Depok
+# spk_kelompok_4
+Studi kasus : Bantuan Yatim Piatu
